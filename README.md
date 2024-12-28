@@ -1,4 +1,4 @@
-Topic : Duplicate Removal from Singly linked list
-group member:
-  Balbino Pedro Bapptista
-  Muhammad Ali Ibrahim
+Topic : Duplicate Removal from Singly linked list </br>
+group member:</br>
+  Balbino Pedro Bapptista</br>
+  Muhammad Ali Ibrahim</br>
